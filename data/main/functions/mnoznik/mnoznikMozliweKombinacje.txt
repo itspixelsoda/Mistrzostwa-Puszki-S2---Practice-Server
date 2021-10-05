@@ -1,0 +1,23 @@
+usuwanie poprzednich z main scoreboarda:
+/scoreboard players remove (x1.0) main
+/scoreboard players remove (x1.2) main
+/scoreboard players remove (x1.4) main
+/scoreboard players remove (x1.6) main
+/scoreboard players remove (x1.8) main
+/scoreboard players remove (x2.0) main
+
+ustawianie nowych na main scoreboard:
+/scoreboard players set (x1.0) main 5
+/scoreboard players set (x1.2) main 5
+/scoreboard players set (x1.4) main 5
+/scoreboard players set (x1.6) main 5
+/scoreboard players set (x1.8) main 5
+/scoreboard players set (x2.0) main 5
+
+formatowanie złotego koloru mnożnika poprzez dodanie do drużyny formatującej:
+/team join mnoznik (x1.0)
+/team join mnoznik (x1.2)
+/team join mnoznik (x1.4)
+/team join mnoznik (x1.6)
+/team join mnoznik (x1.8)
+/team join mnoznik (x2.0)

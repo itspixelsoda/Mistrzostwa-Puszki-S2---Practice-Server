@@ -1,0 +1,18 @@
+prefixy:
+
+{"text":"Mecz 1/6: ","bold":true,"color":"aqua"}
+{"text":"Mecz 2/6: ","bold":true,"color":"aqua"}
+{"text":"Mecz 3/6: ","bold":true,"color":"aqua"}
+{"text":"Mecz 4/6: ","bold":true,"color":"aqua"}
+{"text":"Mecz 5/6: ","bold":true,"color":"aqua"}
+{"text":"Mecz 6/6: ","bold":true,"color":"aqua"}
+
+gracz powinien się nazywać: "
+
+suffixy:
+{"text":"Battle Box\"","color":"aqua"}
+{"text":"Wyścig Skoków\"","color":"aqua"}
+{"text":"Parkourowy Berek\"","color":"aqua"}
+{"text":"Przeceny w Castoramie\"","color":"aqua"}
+{"text":"Ace Race\"","color":"aqua"}
+{"text":"Zbijak\"","color":"aqua"}

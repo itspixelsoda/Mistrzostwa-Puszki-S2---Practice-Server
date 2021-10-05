@@ -1,0 +1,8 @@
+prefixy:
+
+{"text":"Pozostały Czas: ","bold":true,"color":"red"}
+
+gracz powinien się nazywać: «
+
+suffixy:
+{"text":"00:00","color":"red"}

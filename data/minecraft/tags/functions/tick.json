@@ -1,0 +1,9 @@
+{
+	"values": [
+		"lobby:boostpads",
+		"dodgebolt:setup/lockarena",
+		"parkourtag:timer/sec",
+		"acerace:/timer/runpractice",
+		"parkourtag:setup/allplayerscount"
+	]
+}

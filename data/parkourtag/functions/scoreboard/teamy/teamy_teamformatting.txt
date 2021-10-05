@@ -1,0 +1,15 @@
+prefixy:
+
+{"text":" \uE002 Czerwone Czereśnie ","color":"red"}
+{"text":" \uE003 Niebieskie Nietoperze ","color":"blue"}
+{"text":" \uE004 Zielone Ziemniaki ","color":"green"}
+{"text":" \uE005 Żółte Żarówki ","color":"yellow"}
+
+gracz powinien się nazywać:
+¬ - czer
+¿ - nieb
+ª - ziel
+º - zolt
+
+suffixy:
+<ilość monet>

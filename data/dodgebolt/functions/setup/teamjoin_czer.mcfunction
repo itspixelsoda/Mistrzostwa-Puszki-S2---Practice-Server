@@ -1,0 +1,1 @@
+title @a[tag=!in_game] actionbar ["",{"text":"[","bold":true},{"text":"Zbijak","bold":true,"color":"yellow"},{"text":"] ","bold":true},"Gracz ",{"selector":"@p","color":"red"}," dołączył do ",{"text":"Czerwonych","bold":true,"color":"red"}]

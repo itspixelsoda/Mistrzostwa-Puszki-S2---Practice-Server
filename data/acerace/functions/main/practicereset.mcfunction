@@ -1,0 +1,9 @@
+scoreboard players enable @a[tag=acerace] areset
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run tag @s remove in_game
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run tp @s 12.5 83.1 -144.5
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run scoreboard players set @s aceraceCP 0
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run effect clear @a
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run clear @s trident
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run clear @s elytra
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run tag @s remove aceracepract
+execute as @a[tag=acerace] at @s if score @s areset matches 1 run scoreboard players set @s areset 0

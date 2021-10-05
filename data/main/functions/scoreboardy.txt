@@ -1,0 +1,46 @@
+main - główna tabela pokazująca tylko kosmetycznie (https://media.discordapp.net/attachments/810488519587266560/853711269722587136/unknown.png?width=1098&height=675)
+players w objectivie "main":
+  8 - runda
+  7 - czas
+  6 - puste
+  5 - mnożnik
+  4 - czer
+  3 - nieb
+  2 - ziel
+  1 - zolt
+
+
+runda - tabela odpowiedzialna za dojście do trybu jaki jest teraz grany
+integery odpowiedzialne za poszczególne tryby:
+  1 - Battlebox
+  2 - Parkour Race
+  3 - Parkour Tag
+  4 - Castorama
+  5 - Hole In The Wall
+  6 - Dodgebolt
+(nie wpisywałem bingo bo będzie grane jako pierwsze)
+
+czas - na wyświetlanie czasu w rundzie
+
+mnożnik - na pokazywaie mnożnika punktów
+integery odpowiedzialne za poszczególne mnożniki:
+  1 - 1.0x
+  2 - 1.2x
+  3 - 1.4x
+  4 - 1.6x
+  5 - 1.8x
+  6 - 2.0x
+
+czer - na pokazywanie punktów czerwonych
+nieb - ^^
+ziel - ^^
+zolt - ^^
+
+format znaków:
+« - 7 (czas)
+¼ - 6 (puste)
+½ - 5 (mnożnik)
+¬ - 4 (czer)
+¿ - 3 (nieb)
+ª - 2 (ziel)
+º - 1 (zolt)

@@ -1,0 +1,12 @@
+prefixy:
+{"text":"Punkty Meczowe: ","bold":true,"color":"aqua"}
+
+gracz powinien się nazywać: ½
+
+suffixy:
+{"text":"(x1.0)","color":"gold"}
+{"text":"(x1.2)","color":"gold"}
+{"text":"(x1.4)","color":"gold"}
+{"text":"(x1.6)","color":"gold"}
+{"text":"(x1.8)","color":"gold"}
+{"text":"(x2.0)","color":"gold"}
