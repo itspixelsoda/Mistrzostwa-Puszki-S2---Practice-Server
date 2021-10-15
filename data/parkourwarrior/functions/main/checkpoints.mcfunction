@@ -2,7 +2,7 @@
 execute as @a[x=-29,y=41,z=-35,dy=2.5] at @s if score @s pwCheckpoint matches 1 run scoreboard players add @s punkty 10
 execute as @a[x=-39,y=44,z=-54,dy=2.5] at @s if score @s pwCheckpoint matches 2 run scoreboard players add @s punkty 10
 execute as @a[x=-81,y=49,z=-64,dy=2.5] at @s if score @s pwCheckpoint matches 3 run scoreboard players add @s punkty 10
-execute as @a[x=-114,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run scoreboard players add @s punkty 10
+execute as @a[x=-114.5,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run scoreboard players add @s punkty 10
 execute as @a[x=-109,y=58,z=0,dy=2.5] at @s if score @s pwCheckpoint matches 5 run scoreboard players add @s punkty 10
 execute as @a[x=-95,y=61,z=21,dy=2.5] at @s if score @s pwCheckpoint matches 6 run scoreboard players add @s punkty 10
 execute as @a[x=-72,y=61,z=29,dy=2.5] at @s if score @s pwCheckpoint matches 7 run scoreboard players add @s punkty 10
@@ -37,7 +37,7 @@ execute as @a[x=-21,y=34,z=-21,dy=2.5] at @s if score @s pwCheckpoint matches 0 
 execute as @a[x=-29,y=41,z=-35,dy=2.5] at @s if score @s pwCheckpoint matches 1 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
 execute as @a[x=-39,y=44,z=-54,dy=2.5] at @s if score @s pwCheckpoint matches 2 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
 execute as @a[x=-81,y=49,z=-64,dy=2.5] at @s if score @s pwCheckpoint matches 3 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
-execute as @a[x=-114,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
+execute as @a[x=-114.5,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
 execute as @a[x=-109,y=58,z=0,dy=2.5] at @s if score @s pwCheckpoint matches 5 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
 execute as @a[x=-95,y=61,z=21,dy=2.5] at @s if score @s pwCheckpoint matches 6 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
 execute as @a[x=-72,y=61,z=29,dy=2.5] at @s if score @s pwCheckpoint matches 7 run tellraw @a[tag=parkourwarrior,tag=in_game] ["","[+10 \uE008] ",{"selector":"@s"}," ukończył punkt ",{"text":"#","color":"light_purple"},{"score":{"name":"@s","objective":"pwCheckpoint"},"color":"light_purple"},"!"]
@@ -72,7 +72,7 @@ execute as @a[x=-21,y=34,z=-21,dy=2.5] at @s if score @s pwCheckpoint matches 0 
 execute as @a[x=-29,y=41,z=-35,dy=2.5] at @s if score @s pwCheckpoint matches 1 run scoreboard players set @s pwCheckpoint 2
 execute as @a[x=-39,y=44,z=-54,dy=2.5] at @s if score @s pwCheckpoint matches 2 run scoreboard players set @s pwCheckpoint 3
 execute as @a[x=-81,y=49,z=-64,dy=2.5] at @s if score @s pwCheckpoint matches 3 run scoreboard players set @s pwCheckpoint 4
-execute as @a[x=-114,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run scoreboard players set @s pwCheckpoint 5
+execute as @a[x=-114.5,y=54,z=-29,dy=2.5] at @s if score @s pwCheckpoint matches 4 run scoreboard players set @s pwCheckpoint 5
 execute as @a[x=-109,y=58,z=0,dy=2.5] at @s if score @s pwCheckpoint matches 5 run scoreboard players set @s pwCheckpoint 6
 execute as @a[x=-95,y=61,z=21,dy=2.5] at @s if score @s pwCheckpoint matches 6 run scoreboard players set @s pwCheckpoint 7
 execute as @a[x=-72,y=61,z=29,dy=2.5] at @s if score @s pwCheckpoint matches 7 run scoreboard players set @s pwCheckpoint 8
