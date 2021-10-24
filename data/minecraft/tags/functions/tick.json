@@ -3,7 +3,8 @@
 		"lobby:boostpads",
 		"dodgebolt:setup/lockarena",
 		"parkourtag:timer/sec",
-		"acerace:/timer/runpractice",
-		"parkourtag:setup/allplayerscount"
+		"acerace:timer/runpractice",
+		"parkourtag:setup/allplayerscount",
+		"battlebox:main/main"
 	]
 }

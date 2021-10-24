@@ -1,3 +1,4 @@
+## tp system
 execute as @r[scores={aceraceCP=1}] at @s if entity @s[y=50,dy=5] run tp @s 1.5 83.1 -154.5
 execute as @r[scores={aceraceCP=2}] at @s if entity @s[y=50,dy=5] run tp @s -13.5 84.1 -184.5
 execute as @r[scores={aceraceCP=3}] at @s if entity @s[y=50,dy=5] run tp @s -2.5 82.1 -218.5
